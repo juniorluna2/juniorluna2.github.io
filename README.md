@@ -1,2 +1,2 @@
-# downriver-golf-major-pool
-Downriver Golf Major Pool
+# Tourament
+Downriver Dirty Golf Cup
